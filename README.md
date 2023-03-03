@@ -6,6 +6,15 @@ python = 3.8.10<br><br>
 
 used data: LFW data (3 people)
 <br><br>
+
+train - recognizer.py
+
+single image test - demo_recognizer.py
+
+video test - recognizer_run.py
+
+
+<br><br>
 ## Result
 <br>
 
